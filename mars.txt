@@ -1,1 +1,3 @@
 Mars is the fouth planet in the solar system. 
+
+Mars is red in color. 
